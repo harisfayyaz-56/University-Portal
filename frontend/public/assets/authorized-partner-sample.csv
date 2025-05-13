@@ -1,0 +1,4 @@
+company_name,phone_number,address,street,postal_code,country,state,city,email,is_active
+ABC Company,+924237863841,123 Main,14 st,12345,United States,New York,Buffalo,a@gmail.com,true
+XYZ Company,+924237863851,123 Main,16 st,12345,United States,California,San Francisco,b@gmail.com,true
+AXY Company,+924237863861,123 Main,15 st,12345,United States,Texas,Houston,c@gmail.com,false
