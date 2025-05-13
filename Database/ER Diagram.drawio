@@ -1,0 +1,69 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="26.2.14">
+  <diagram id="R2lEEEUBdFMjLlhIrx00" name="University ER Diagram">
+    <mxGraphModel dx="6142" dy="3862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pIda0GAK2JnCOiZs8-Q1-53" style="edgeStyle=orthogonalEdgeStyle;endArrow=none;" parent="1" edge="1" />
+        <mxCell id="pIda0GAK2JnCOiZs8-Q1-55" style="edgeStyle=orthogonalEdgeStyle;endArrow=none;" parent="1" edge="1" />
+        <mxCell id="pIda0GAK2JnCOiZs8-Q1-57" style="edgeStyle=orthogonalEdgeStyle;endArrow=none;" parent="1" edge="1" />
+        <mxCell id="pIda0GAK2JnCOiZs8-Q1-59" style="edgeStyle=orthogonalEdgeStyle;endArrow=none;" parent="1" edge="1" />
+        <mxCell id="pIda0GAK2JnCOiZs8-Q1-61" style="edgeStyle=orthogonalEdgeStyle;endArrow=none;" parent="1" edge="1" />
+        <mxCell id="R6Stle4Ote5LFx07n7vs-1" value="Users" style="shape=rectangle;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="60" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="R6Stle4Ote5LFx07n7vs-2" value="UserID (PK)" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="120" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R6Stle4Ote5LFx07n7vs-3" value="FullName" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="120" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R6Stle4Ote5LFx07n7vs-4" value="Email" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="160" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R6Stle4Ote5LFx07n7vs-5" value="Password" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="160" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R6Stle4Ote5LFx07n7vs-6" value="Role" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="200" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R6Stle4Ote5LFx07n7vs-7" value="CreatedAt" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="200" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R6Stle4Ote5LFx07n7vs-8" value="has" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="270" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="R6Stle4Ote5LFx07n7vs-9" style="endArrow=none;html=1;" parent="1" source="R6Stle4Ote5LFx07n7vs-1" target="R6Stle4Ote5LFx07n7vs-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Omg7SzLw-8A7hLdHo1eX-1" value="Users" style="shape=rectangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="60" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Omg7SzLw-8A7hLdHo1eX-2" value="UserID (PK)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="120" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Omg7SzLw-8A7hLdHo1eX-3" value="FullName" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="120" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Omg7SzLw-8A7hLdHo1eX-4" value="Email" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="160" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Omg7SzLw-8A7hLdHo1eX-5" value="Password" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="160" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Omg7SzLw-8A7hLdHo1eX-6" value="Role" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="200" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Omg7SzLw-8A7hLdHo1eX-7" value="CreatedAt" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="200" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Omg7SzLw-8A7hLdHo1eX-8" value="has" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="270" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Omg7SzLw-8A7hLdHo1eX-9" style="endArrow=none;html=1;" edge="1" parent="1" source="Omg7SzLw-8A7hLdHo1eX-1" target="Omg7SzLw-8A7hLdHo1eX-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

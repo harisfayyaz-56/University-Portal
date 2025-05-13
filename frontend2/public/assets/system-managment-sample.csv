@@ -1,0 +1,5 @@
+modelNumber,serialNumber,authorizedServicePartnerEmail,MACAddress
+model1,123456,experts@gmail.com,AA:BB:CC:DD:EE:FF
+model2,789012,experts@gmail.com,AA:BB:CC:DD:FF:EE
+model3,345678,experts@gmail.com,AA:BB:CC:EE:DD:FF
+model4,901234,experts@gmail.com,AA:BB:CC:EE:FF:DD
